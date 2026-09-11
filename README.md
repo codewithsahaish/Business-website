@@ -5,6 +5,9 @@ A modern, responsive and professional business website built using HTML, CSS and
 ## 🌐 Live Demo
 
 [View Live Website](https://codewithsahaish.github.io/Business-website/)
+## 📸 Website Preview
+
+![NovaTech Business Website](screenshots/screenshots.png)
 
 ## ✨ Features
 
