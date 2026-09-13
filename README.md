@@ -22,15 +22,24 @@ A modern, responsive and professional business website built using HTML, CSS and
 - Why Choose Us section
 - Contact section with clickable email and phone
 - Optimized layout for desktop, tablet and mobile devices
+## 💼 Services
 
-## 🛠️ Technologies Used
+- 🌐 Business Website Development
+- 📱 Responsive Web Design
+- ⚡ Frontend Development with HTML, CSS & JavaScript
+- 
+- ## 📩 Contact
+
+Available for freelance web development projects.
+
+📧 Email: sahaishidrisi@gmail.com
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
-- Git
+- Git & GitHub
 - GitHub Pages
-
 ## 📂 Project Structure
 
 ```text
